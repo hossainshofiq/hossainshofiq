@@ -50,7 +50,7 @@
 
 ###
 
-<p align="center">Social Links</p>
+<h2 align="center">Social Links</h2>
 
 ###
 
