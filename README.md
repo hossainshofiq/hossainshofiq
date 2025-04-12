@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://avatars.githubusercontent.com/u/159065094?v=4"  />
+  <img height="300" src="https://i.ibb.co.com/QvnhB6KV/Git-Hub-Banner.png"  />
 </div>
 
 ###
@@ -106,12 +106,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossainshofiq&radius=16&theme=redical&area=true&order=5" height="298" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainshofiq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-</a>
+  <img src="https://streak-stats.demolab.com?user=hossainshofiq&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=hossainshofiq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=hossainshofiq&theme=radical" alt="GitHub Streak" />
 </div>
 
 ###
